@@ -13,7 +13,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/HalilSarikas)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/HalilSarikas)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/HalilSarikas)
-[<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/195/221/png-transparent-sql-server-dba-microsoft-sql-server-database-management-system-logo-oracle-sql-logo-angle-text-logo.png" />](https://github.com/HalilSarikas)
+[<img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/2fd20815f3b0a17768b1ee8429517c9f2e6ad5943681fbf09b8afed5fc72e306/68747470733a2f2f677265656e7769726569742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031332f30352f73716c2d7365727665722d65787072657373312e706e67" />](https://github.com/HalilSarikas)
 
 
 <br />
