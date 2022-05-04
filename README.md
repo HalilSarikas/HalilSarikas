@@ -13,7 +13,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/HalilSarikas)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/HalilSarikas)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/HalilSarikas)
-[<img align="left" alt="GitHub" width="26px" src="https://e7.pngegg.com/pngimages/797/414/png-clipart-microsoft-sql-server-computer-servers-microsoft-angle-text.png" />](https://github.com/HalilSarikas)
+[<img align="left" alt="GitHub" width="26px" src="https://w7.pngwing.com/pngs/195/221/png-transparent-sql-server-dba-microsoft-sql-server-database-management-system-logo-oracle-sql-logo-angle-text-logo.png" />](https://github.com/HalilSarikas)
 
 
 <br />
