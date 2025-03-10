@@ -1,8 +1,7 @@
 ### Hi there, I'm Halil  👋 
 ### Connect with me:
 [<img align="left" alt="Halil Sarıkaş | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/halil-sar%C4%B1ka%C5%9F-182a6a216/)
-[<img align="left" alt="Halil Sarıkaş | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/midnight.person/)
-[<img align="left" alt="Halil Sarıkaş | Instagram" height="22px" src="https://halilsarikas.com/Assets/images/mail.png" />](mailto:contact@halilsarikas.com?Subject=Merhaba)
+[<img align="left" alt="Halil Sarıkaş | Instagram" height="22px" src="https://halilsarikas.com/Assets/images/mail.png" />](mailto:admin@halilsarikas.com?Subject=Merhaba)
 
 <br />
 
